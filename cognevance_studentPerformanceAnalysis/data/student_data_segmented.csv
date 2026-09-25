@@ -1,0 +1,501 @@
+student_id,gender,parental_education,lunch,test_preparation,attendance_percentage,study_hours_per_week,math_score,reading_score,writing_score,average_score,grade,attendance_band,performance_segment
+S1000,male,associate's degree,standard,none,84.6,4.9,35.0,34.4,35.0,34.8,F,Good (75-89%),At Risk
+S1001,female,bachelor's degree,standard,none,92.2,5.2,61.5,55.2,60.1,58.9,D,Excellent (90-100%),Moderate
+S1002,female,some college,standard,none,80.4,3.1,41.2,41.3,39.9,40.8,D,Good (75-89%),Needs Attention
+S1003,male,high school,standard,none,76.2,5.6,48.7,49.8,46.5,48.3,D,Good (75-89%),Moderate
+S1004,male,high school,standard,completed,59.2,6.0,52.7,56.4,54.0,54.4,D,Low (<60%),Moderate
+S1005,female,associate's degree,free/reduced,none,88.4,6.6,55.3,54.5,56.7,55.5,D,Good (75-89%),Moderate
+S1006,male,bachelor's degree,free/reduced,none,80.9,7.6,39.5,48.0,45.8,44.4,D,Good (75-89%),Needs Attention
+S1007,female,some high school,free/reduced,completed,71.9,2.3,45.3,39.8,42.8,42.6,D,Average (60-74%),Needs Attention
+S1008,male,some high school,standard,none,83.3,4.0,50.8,43.1,53.1,49.0,D,Good (75-89%),Moderate
+S1009,male,associate's degree,free/reduced,none,76.2,4.0,35.2,48.4,49.5,44.4,D,Good (75-89%),Needs Attention
+S1010,female,some high school,standard,completed,76.7,3.8,57.8,54.0,53.6,55.1,D,Good (75-89%),Moderate
+S1011,female,bachelor's degree,standard,none,88.1,2.7,64.2,54.6,59.6,59.5,D,Good (75-89%),Moderate
+S1012,female,high school,standard,none,68.6,1.0,33.3,27.3,23.3,28.0,F,Average (60-74%),At Risk
+S1013,female,some high school,free/reduced,none,92.5,4.2,56.4,52.8,59.3,56.2,D,Excellent (90-100%),Moderate
+S1014,female,bachelor's degree,standard,completed,68.0,2.5,52.1,55.2,53.9,53.7,D,Average (60-74%),Moderate
+S1015,female,high school,free/reduced,none,75.4,4.2,22.4,37.4,48.3,36.0,F,Good (75-89%),Needs Attention
+S1016,female,high school,standard,none,100.0,2.4,42.9,55.9,44.1,47.6,D,Excellent (90-100%),Moderate
+S1017,male,high school,free/reduced,none,93.3,1.8,40.6,41.4,37.4,39.8,F,Excellent (90-100%),Needs Attention
+S1018,female,some high school,standard,none,83.0,4.5,43.8,52.5,46.5,47.6,D,Good (75-89%),Moderate
+S1019,male,some high school,standard,none,72.6,4.3,34.3,38.3,38.2,36.9,F,Average (60-74%),Needs Attention
+S1020,female,some high school,free/reduced,none,81.7,5.2,42.7,49.0,54.5,48.7,D,Good (75-89%),Moderate
+S1021,male,high school,standard,none,82.7,8.4,72.3,71.0,64.5,69.3,C,Good (75-89%),High Performer
+S1022,male,some high school,standard,none,82.4,4.6,34.1,41.0,43.3,39.5,F,Good (75-89%),Needs Attention
+S1023,female,associate's degree,standard,completed,81.1,5.0,46.1,44.4,53.5,48.0,D,Good (75-89%),Moderate
+S1024,female,associate's degree,standard,none,81.7,1.8,41.9,35.8,35.0,37.6,F,Good (75-89%),Needs Attention
+S1025,female,some college,standard,completed,79.9,1.4,51.4,71.3,51.6,58.1,D,Good (75-89%),Moderate
+S1026,male,high school,standard,none,67.6,7.2,50.6,43.2,51.0,48.3,D,Average (60-74%),Moderate
+S1027,female,some college,standard,none,76.8,2.2,38.3,39.5,44.3,40.7,D,Good (75-89%),Needs Attention
+S1028,female,bachelor's degree,free/reduced,completed,91.1,1.9,48.5,47.4,52.2,49.4,D,Excellent (90-100%),Moderate
+S1029,male,bachelor's degree,standard,completed,68.3,3.9,47.4,38.8,42.0,42.7,D,Average (60-74%),Needs Attention
+S1030,male,some high school,standard,none,80.1,3.8,48.5,51.2,43.6,47.8,D,Good (75-89%),Moderate
+S1031,male,high school,standard,completed,73.8,2.2,65.0,57.7,59.9,60.9,C,Average (60-74%),High Performer
+S1032,male,high school,standard,none,83.1,3.4,49.0,51.8,56.0,52.3,D,Good (75-89%),Moderate
+S1033,female,high school,standard,none,78.1,6.5,52.2,37.5,44.5,44.7,D,Good (75-89%),Needs Attention
+S1034,female,some college,free/reduced,completed,96.8,2.4,51.3,56.3,55.1,54.2,D,Excellent (90-100%),Moderate
+S1035,male,some college,free/reduced,none,87.1,1.2,35.1,27.5,29.9,30.8,F,Good (75-89%),At Risk
+S1036,female,some high school,standard,completed,68.9,5.9,43.2,44.4,37.2,41.6,D,Average (60-74%),Needs Attention
+S1037,female,some college,standard,none,88.7,5.0,61.1,72.3,58.0,63.8,C,Good (75-89%),High Performer
+S1038,male,some college,standard,completed,74.3,2.8,55.9,52.5,53.6,54.0,D,Average (60-74%),Moderate
+S1039,female,some high school,standard,none,76.2,0.8,39.5,34.0,42.4,38.6,F,Good (75-89%),Needs Attention
+S1040,male,bachelor's degree,standard,none,85.1,2.5,35.6,45.4,42.4,41.1,D,Good (75-89%),Needs Attention
+S1041,female,some high school,free/reduced,none,77.1,3.9,44.5,39.2,38.6,40.8,D,Good (75-89%),Needs Attention
+S1042,female,bachelor's degree,standard,none,90.9,6.3,62.1,67.5,66.8,65.5,C,Excellent (90-100%),High Performer
+S1043,male,some high school,standard,none,74.3,1.9,47.4,38.7,37.8,41.3,D,Average (60-74%),Needs Attention
+S1044,male,bachelor's degree,standard,none,75.8,3.8,41.9,37.5,37.5,39.0,F,Good (75-89%),Needs Attention
+S1045,female,bachelor's degree,standard,none,75.4,5.4,31.2,35.6,38.0,34.9,F,Good (75-89%),At Risk
+S1046,male,master's degree,standard,none,76.3,0.0,41.0,38.1,24.3,34.5,F,Good (75-89%),At Risk
+S1047,female,bachelor's degree,standard,none,93.0,6.1,61.5,62.2,57.8,60.5,C,Excellent (90-100%),High Performer
+S1048,female,associate's degree,free/reduced,completed,88.3,1.6,40.9,40.1,47.2,42.7,D,Good (75-89%),Needs Attention
+S1049,female,associate's degree,standard,completed,81.7,4.7,62.7,65.8,57.3,61.9,C,Good (75-89%),High Performer
+S1050,female,associate's degree,standard,completed,100.0,4.5,72.2,58.5,69.6,66.8,C,Excellent (90-100%),High Performer
+S1051,male,some high school,standard,none,71.7,6.2,48.5,54.1,58.4,53.7,D,Average (60-74%),Moderate
+S1052,male,some college,free/reduced,completed,82.7,5.1,55.9,53.3,59.6,56.3,D,Good (75-89%),Moderate
+S1053,male,some college,standard,none,70.2,0.0,29.3,24.2,27.3,26.9,F,Average (60-74%),At Risk
+S1054,male,bachelor's degree,free/reduced,none,74.2,2.4,21.3,32.3,33.4,29.0,F,Average (60-74%),At Risk
+S1055,male,some college,free/reduced,none,75.7,4.3,39.9,42.4,37.5,39.9,F,Good (75-89%),Needs Attention
+S1056,female,some college,standard,completed,71.4,3.6,61.5,56.5,57.3,58.4,D,Average (60-74%),Moderate
+S1057,male,associate's degree,free/reduced,none,71.5,5.0,35.7,40.3,36.3,37.4,F,Average (60-74%),Needs Attention
+S1058,female,high school,standard,none,80.6,5.6,48.4,51.1,41.8,47.1,D,Good (75-89%),Moderate
+S1059,female,some high school,free/reduced,completed,69.8,5.2,22.7,44.2,35.4,34.1,F,Average (60-74%),At Risk
+S1060,female,some college,standard,none,90.4,3.6,60.2,62.4,60.4,61.0,C,Excellent (90-100%),High Performer
+S1061,female,some college,free/reduced,none,72.8,0.3,34.2,42.8,43.0,40.0,D,Average (60-74%),Needs Attention
+S1062,male,high school,standard,completed,100.0,3.1,59.2,67.8,62.3,63.1,C,Excellent (90-100%),High Performer
+S1063,female,high school,standard,none,77.5,4.8,58.8,50.5,45.0,51.4,D,Good (75-89%),Moderate
+S1064,male,high school,standard,none,82.7,1.8,44.3,38.0,38.2,40.2,D,Good (75-89%),Needs Attention
+S1065,male,high school,free/reduced,completed,69.0,5.3,44.8,51.6,51.0,49.1,D,Average (60-74%),Moderate
+S1066,female,some college,standard,completed,99.1,5.8,62.0,67.4,73.0,67.5,C,Excellent (90-100%),High Performer
+S1067,male,associate's degree,standard,none,93.2,4.3,40.5,54.6,49.9,48.3,D,Excellent (90-100%),Moderate
+S1068,male,high school,free/reduced,none,85.0,0.0,45.2,49.6,51.0,48.6,D,Good (75-89%),Moderate
+S1069,male,master's degree,free/reduced,none,68.5,1.4,39.9,32.9,40.3,37.7,F,Average (60-74%),Needs Attention
+S1070,female,bachelor's degree,standard,none,84.1,7.8,44.0,56.2,51.4,50.5,D,Good (75-89%),Moderate
+S1071,male,some college,standard,none,70.8,2.9,39.1,41.2,38.6,39.6,F,Average (60-74%),Needs Attention
+S1072,male,high school,standard,none,96.6,0.0,35.9,26.7,30.4,31.0,F,Excellent (90-100%),At Risk
+S1073,male,some college,free/reduced,completed,90.1,6.5,76.4,74.9,79.0,76.8,B,Excellent (90-100%),High Performer
+S1074,female,bachelor's degree,standard,completed,83.0,4.0,53.8,40.5,36.6,43.6,D,Good (75-89%),Needs Attention
+S1075,male,associate's degree,free/reduced,none,57.6,6.2,38.9,39.7,47.3,42.0,D,Low (<60%),Needs Attention
+S1076,male,bachelor's degree,standard,none,72.2,4.6,57.6,57.0,46.7,53.8,D,Average (60-74%),Moderate
+S1077,male,some college,standard,none,88.9,4.9,51.1,63.3,50.8,55.1,D,Good (75-89%),Moderate
+S1078,female,associate's degree,standard,completed,94.1,4.7,65.8,55.2,69.0,63.3,C,Excellent (90-100%),High Performer
+S1079,female,high school,standard,none,93.1,5.4,48.6,53.2,49.9,50.6,D,Excellent (90-100%),Moderate
+S1080,female,associate's degree,free/reduced,none,66.1,8.6,52.8,50.8,45.9,49.8,D,Average (60-74%),Moderate
+S1081,male,high school,standard,none,85.0,5.9,47.8,57.8,47.1,50.9,D,Good (75-89%),Moderate
+S1082,male,associate's degree,standard,none,92.2,0.8,36.2,37.4,40.9,38.2,F,Excellent (90-100%),Needs Attention
+S1083,female,bachelor's degree,free/reduced,completed,65.4,4.9,52.5,55.6,55.1,54.4,D,Average (60-74%),Moderate
+S1084,female,some high school,free/reduced,completed,81.9,6.3,55.6,66.4,50.1,57.4,D,Good (75-89%),Moderate
+S1085,female,associate's degree,free/reduced,none,84.7,6.4,43.1,46.8,43.1,44.3,D,Good (75-89%),Needs Attention
+S1086,male,some high school,standard,completed,79.0,3.1,49.8,50.3,52.7,50.9,D,Good (75-89%),Moderate
+S1087,male,associate's degree,standard,completed,63.5,6.3,55.1,51.0,58.1,54.7,D,Average (60-74%),Moderate
+S1088,female,some high school,free/reduced,none,78.7,5.9,53.7,53.1,54.9,53.9,D,Good (75-89%),Moderate
+S1089,female,bachelor's degree,standard,none,78.7,9.1,64.0,53.3,58.8,58.7,D,Good (75-89%),Moderate
+S1090,male,some high school,standard,none,80.5,2.5,41.4,34.9,35.9,37.4,F,Good (75-89%),Needs Attention
+S1091,female,master's degree,free/reduced,completed,76.4,3.0,45.9,56.3,60.0,54.1,D,Good (75-89%),Moderate
+S1092,female,bachelor's degree,standard,none,77.6,3.4,41.0,38.4,36.8,38.7,F,Good (75-89%),Needs Attention
+S1093,male,associate's degree,standard,none,81.6,3.0,46.1,40.4,38.7,41.7,D,Good (75-89%),Needs Attention
+S1094,female,associate's degree,free/reduced,none,86.4,2.2,57.1,46.2,54.1,52.5,D,Good (75-89%),Moderate
+S1095,male,bachelor's degree,standard,completed,79.0,0.0,52.5,46.4,43.5,47.5,D,Good (75-89%),Moderate
+S1096,male,master's degree,standard,none,77.9,3.1,42.6,37.5,32.1,37.4,F,Good (75-89%),Needs Attention
+S1097,female,high school,standard,completed,82.9,4.7,65.9,55.3,49.9,57.0,D,Good (75-89%),Moderate
+S1098,female,associate's degree,standard,none,62.8,3.0,40.4,22.9,35.1,32.8,F,Average (60-74%),At Risk
+S1099,male,some high school,standard,completed,86.8,7.9,77.5,72.4,76.7,75.5,B,Good (75-89%),High Performer
+S1100,female,associate's degree,free/reduced,none,82.0,4.0,35.5,34.9,43.7,38.0,F,Good (75-89%),Needs Attention
+S1101,male,high school,free/reduced,none,82.4,6.6,46.4,54.4,55.2,52.0,D,Good (75-89%),Moderate
+S1102,female,some college,standard,completed,91.6,4.5,48.2,52.3,37.9,46.1,D,Excellent (90-100%),Moderate
+S1103,male,some college,standard,completed,62.5,5.7,43.0,46.4,46.4,45.3,D,Average (60-74%),Moderate
+S1104,female,some college,free/reduced,none,62.3,4.6,37.7,35.2,36.0,36.3,F,Average (60-74%),Needs Attention
+S1105,female,some college,standard,none,84.7,6.7,51.7,49.2,50.8,50.6,D,Good (75-89%),Moderate
+S1106,female,associate's degree,standard,completed,81.9,4.1,51.2,49.1,51.1,50.5,D,Good (75-89%),Moderate
+S1107,female,bachelor's degree,standard,completed,83.7,5.0,62.0,62.6,56.1,60.2,C,Good (75-89%),High Performer
+S1108,male,some college,free/reduced,none,77.4,4.7,44.4,39.1,41.4,41.6,D,Good (75-89%),Needs Attention
+S1109,female,associate's degree,standard,none,88.6,3.4,39.2,38.1,40.5,39.3,F,Good (75-89%),Needs Attention
+S1110,male,bachelor's degree,free/reduced,completed,91.3,4.8,56.5,65.6,61.1,61.1,C,Excellent (90-100%),High Performer
+S1111,female,some high school,standard,completed,86.8,8.5,76.3,79.7,66.2,74.1,C,Good (75-89%),High Performer
+S1112,female,some high school,standard,completed,79.4,3.5,60.0,54.9,70.9,61.9,C,Good (75-89%),High Performer
+S1113,male,some high school,standard,none,60.9,4.8,23.5,34.1,25.0,27.5,F,Average (60-74%),At Risk
+S1114,female,associate's degree,standard,none,89.7,6.5,56.9,64.2,57.1,59.4,D,Good (75-89%),Moderate
+S1115,female,some college,standard,completed,94.2,6.3,68.8,68.7,60.6,66.0,C,Excellent (90-100%),High Performer
+S1116,male,associate's degree,standard,completed,88.4,4.0,53.8,48.8,49.9,50.8,D,Good (75-89%),Moderate
+S1117,male,associate's degree,standard,completed,73.2,0.0,44.8,37.8,34.6,39.1,F,Average (60-74%),Needs Attention
+S1118,male,high school,standard,none,88.7,5.0,53.4,49.9,47.7,50.3,D,Good (75-89%),Moderate
+S1119,male,bachelor's degree,standard,none,90.6,0.0,55.4,55.9,55.6,55.6,D,Excellent (90-100%),Moderate
+S1120,male,associate's degree,standard,completed,97.6,6.9,78.8,81.4,81.4,80.5,B,Excellent (90-100%),High Performer
+S1121,female,high school,free/reduced,none,73.2,4.3,27.3,33.9,34.7,32.0,F,Average (60-74%),At Risk
+S1122,female,high school,standard,completed,79.7,6.0,70.9,68.0,63.7,67.5,C,Good (75-89%),High Performer
+S1123,male,high school,free/reduced,none,89.5,2.2,36.8,34.3,47.3,39.5,F,Good (75-89%),Needs Attention
+S1124,female,high school,free/reduced,completed,82.6,0.9,47.9,62.8,45.6,52.1,D,Good (75-89%),Moderate
+S1125,female,some high school,standard,completed,70.8,4.5,46.5,55.3,63.2,55.0,D,Average (60-74%),Moderate
+S1126,male,bachelor's degree,free/reduced,none,86.1,3.9,37.0,37.7,45.7,40.1,D,Good (75-89%),Needs Attention
+S1127,female,some college,free/reduced,none,87.8,3.0,46.7,56.7,51.2,51.5,D,Good (75-89%),Moderate
+S1128,female,some college,standard,none,82.9,4.2,46.1,47.9,41.0,45.0,D,Good (75-89%),Needs Attention
+S1129,female,associate's degree,standard,none,84.2,9.5,63.7,67.9,64.1,65.2,C,Good (75-89%),High Performer
+S1130,female,some college,standard,none,79.4,5.7,54.2,50.2,47.3,50.6,D,Good (75-89%),Moderate
+S1131,female,bachelor's degree,standard,none,96.8,6.1,60.3,64.3,64.4,63.0,C,Excellent (90-100%),High Performer
+S1132,male,associate's degree,standard,completed,73.0,5.7,46.1,53.5,52.5,50.7,D,Average (60-74%),Moderate
+S1133,female,some college,free/reduced,none,76.1,7.0,45.4,43.3,38.8,42.5,D,Good (75-89%),Needs Attention
+S1134,female,some college,free/reduced,none,82.1,3.6,53.0,52.0,56.7,53.9,D,Good (75-89%),Moderate
+S1135,male,master's degree,standard,none,90.8,0.0,53.4,45.1,42.2,46.9,D,Excellent (90-100%),Moderate
+S1136,female,associate's degree,free/reduced,none,67.0,3.6,44.6,52.7,39.9,45.7,D,Average (60-74%),Moderate
+S1137,male,master's degree,standard,none,68.9,5.6,34.6,40.9,36.6,37.4,F,Average (60-74%),Needs Attention
+S1138,male,some high school,free/reduced,none,61.6,2.1,22.9,14.0,26.8,21.2,F,Average (60-74%),At Risk
+S1139,male,bachelor's degree,standard,completed,82.3,3.6,50.6,48.7,44.2,47.8,D,Good (75-89%),Moderate
+S1140,female,associate's degree,free/reduced,none,70.8,2.6,32.7,47.6,21.8,34.0,F,Average (60-74%),At Risk
+S1141,male,some high school,free/reduced,completed,78.2,7.0,62.5,68.9,65.8,65.7,C,Good (75-89%),High Performer
+S1142,male,some college,standard,none,88.6,5.5,55.0,55.3,60.4,56.9,D,Good (75-89%),Moderate
+S1143,male,associate's degree,standard,none,75.6,5.3,48.6,48.8,43.7,47.0,D,Good (75-89%),Moderate
+S1144,female,some high school,free/reduced,completed,84.3,5.2,64.0,63.2,60.2,62.5,C,Good (75-89%),High Performer
+S1145,female,some college,standard,completed,79.0,3.9,64.4,54.0,60.5,59.6,D,Good (75-89%),Moderate
+S1146,male,bachelor's degree,standard,none,88.7,4.4,48.6,50.1,43.2,47.3,D,Good (75-89%),Moderate
+S1147,male,high school,free/reduced,none,86.8,1.6,33.0,37.5,31.0,33.8,F,Good (75-89%),At Risk
+S1148,female,some college,standard,none,75.1,0.0,30.9,33.8,38.3,34.3,F,Good (75-89%),At Risk
+S1149,male,some college,standard,none,80.3,4.3,48.6,40.2,49.0,45.9,D,Good (75-89%),Moderate
+S1150,female,high school,standard,none,92.4,4.6,51.4,53.4,50.2,51.7,D,Excellent (90-100%),Moderate
+S1151,male,bachelor's degree,standard,none,85.9,6.4,47.7,50.0,48.5,48.7,D,Good (75-89%),Moderate
+S1152,female,associate's degree,free/reduced,none,68.0,7.1,40.7,44.5,51.2,45.5,D,Average (60-74%),Moderate
+S1153,male,some high school,standard,none,88.6,7.1,48.6,41.8,48.4,46.3,D,Good (75-89%),Moderate
+S1154,male,master's degree,standard,completed,71.2,2.0,36.7,51.3,49.0,45.7,D,Average (60-74%),Moderate
+S1155,female,bachelor's degree,standard,completed,96.1,3.3,53.9,47.0,50.5,50.5,D,Excellent (90-100%),Moderate
+S1156,male,high school,free/reduced,none,92.2,5.0,63.7,81.1,68.1,71.0,C,Excellent (90-100%),High Performer
+S1157,female,bachelor's degree,standard,none,84.9,9.1,56.7,45.0,41.3,47.7,D,Good (75-89%),Moderate
+S1158,female,some high school,free/reduced,none,83.6,7.0,37.2,41.1,50.2,42.8,D,Good (75-89%),Needs Attention
+S1159,female,master's degree,free/reduced,none,79.9,6.2,51.1,56.5,55.3,54.3,D,Good (75-89%),Moderate
+S1160,female,associate's degree,free/reduced,completed,88.8,3.2,58.1,72.6,62.6,64.4,C,Good (75-89%),High Performer
+S1161,female,associate's degree,free/reduced,completed,78.3,2.2,45.6,49.4,46.7,47.2,D,Good (75-89%),Moderate
+S1162,male,some high school,free/reduced,completed,84.4,5.6,58.2,65.1,65.2,62.8,C,Good (75-89%),High Performer
+S1163,male,bachelor's degree,free/reduced,completed,90.7,1.8,35.4,40.0,31.9,35.8,F,Excellent (90-100%),Needs Attention
+S1164,male,some high school,standard,completed,76.4,3.5,38.2,40.4,42.2,40.3,D,Good (75-89%),Needs Attention
+S1165,female,high school,free/reduced,completed,75.8,3.8,32.5,40.9,37.4,36.9,F,Good (75-89%),Needs Attention
+S1166,male,some high school,standard,none,70.1,7.2,35.9,31.0,45.0,37.3,F,Average (60-74%),Needs Attention
+S1167,male,associate's degree,standard,none,71.4,3.3,42.0,34.2,43.9,40.0,D,Average (60-74%),Needs Attention
+S1168,male,high school,free/reduced,none,63.7,0.0,9.8,15.7,2.3,9.3,F,Average (60-74%),At Risk
+S1169,male,bachelor's degree,free/reduced,none,89.3,5.0,44.0,38.0,35.0,39.0,F,Good (75-89%),Needs Attention
+S1170,male,associate's degree,free/reduced,none,100.0,2.6,42.9,48.8,45.4,45.7,D,Excellent (90-100%),Moderate
+S1171,male,some high school,standard,completed,96.3,4.1,49.7,48.2,51.7,49.9,D,Excellent (90-100%),Moderate
+S1172,female,some high school,standard,none,65.7,3.8,41.3,42.7,33.6,39.2,F,Average (60-74%),Needs Attention
+S1173,female,some high school,standard,none,89.2,3.5,52.1,47.6,58.5,52.7,D,Good (75-89%),Moderate
+S1174,female,associate's degree,standard,none,96.2,5.6,64.1,69.4,62.3,65.3,C,Excellent (90-100%),High Performer
+S1175,male,bachelor's degree,standard,none,77.4,0.9,52.1,42.9,42.6,45.9,D,Good (75-89%),Moderate
+S1176,female,high school,standard,none,83.0,3.0,48.9,57.6,46.7,51.1,D,Good (75-89%),Moderate
+S1177,male,bachelor's degree,standard,completed,61.9,5.4,48.0,44.4,51.4,47.9,D,Average (60-74%),Moderate
+S1178,female,some high school,free/reduced,none,84.7,2.8,45.5,46.6,43.2,45.1,D,Good (75-89%),Moderate
+S1179,female,bachelor's degree,standard,completed,71.4,0.8,44.3,39.0,42.1,41.8,D,Average (60-74%),Needs Attention
+S1180,female,bachelor's degree,free/reduced,none,84.0,5.3,45.8,49.5,53.3,49.5,D,Good (75-89%),Moderate
+S1181,male,associate's degree,standard,none,66.4,6.2,36.2,41.3,33.4,37.0,F,Average (60-74%),Needs Attention
+S1182,male,associate's degree,standard,none,87.4,3.9,44.9,42.7,53.2,46.9,D,Good (75-89%),Moderate
+S1183,female,bachelor's degree,standard,completed,92.2,0.1,38.0,36.7,43.4,39.4,F,Excellent (90-100%),Needs Attention
+S1184,male,some high school,standard,completed,74.2,5.4,47.5,49.3,62.2,53.0,D,Average (60-74%),Moderate
+S1185,male,high school,free/reduced,none,70.6,0.7,26.2,20.5,26.0,24.2,F,Average (60-74%),At Risk
+S1186,male,some high school,standard,completed,60.4,4.6,36.8,36.1,36.5,36.5,F,Average (60-74%),Needs Attention
+S1187,male,some college,standard,none,79.3,2.2,41.0,39.5,29.6,36.7,F,Good (75-89%),Needs Attention
+S1188,male,associate's degree,free/reduced,completed,76.2,1.7,37.2,29.3,38.4,35.0,F,Good (75-89%),At Risk
+S1189,male,associate's degree,free/reduced,none,66.5,3.1,36.3,36.7,42.7,38.6,F,Average (60-74%),Needs Attention
+S1190,female,bachelor's degree,standard,none,86.5,3.6,47.6,56.8,44.4,49.6,D,Good (75-89%),Moderate
+S1191,female,high school,standard,completed,77.5,2.7,34.0,39.5,37.4,37.0,F,Good (75-89%),Needs Attention
+S1192,female,associate's degree,standard,none,71.2,5.2,48.2,51.4,42.2,47.3,D,Average (60-74%),Moderate
+S1193,male,high school,standard,none,76.5,3.1,41.6,41.2,36.8,39.9,F,Good (75-89%),Needs Attention
+S1194,female,high school,standard,none,92.7,6.0,52.2,50.4,43.5,48.7,D,Excellent (90-100%),Moderate
+S1195,male,associate's degree,standard,none,81.7,4.6,53.8,49.3,52.1,51.7,D,Good (75-89%),Moderate
+S1196,male,master's degree,free/reduced,completed,80.7,2.6,47.6,44.8,53.3,48.6,D,Good (75-89%),Moderate
+S1197,male,associate's degree,standard,completed,88.2,2.3,41.8,41.1,48.3,43.7,D,Good (75-89%),Needs Attention
+S1198,male,some high school,standard,completed,70.4,0.7,34.7,52.5,46.4,44.5,D,Average (60-74%),Needs Attention
+S1199,female,associate's degree,standard,none,82.3,4.6,59.4,47.3,51.2,52.6,D,Good (75-89%),Moderate
+S1200,male,some high school,free/reduced,none,83.5,3.3,50.8,40.0,45.4,45.4,D,Good (75-89%),Moderate
+S1201,female,bachelor's degree,standard,none,77.3,0.0,31.2,21.1,25.4,25.9,F,Good (75-89%),At Risk
+S1202,male,associate's degree,free/reduced,none,86.4,2.9,45.7,41.5,39.3,42.2,D,Good (75-89%),Needs Attention
+S1203,female,high school,free/reduced,none,81.7,2.2,22.0,41.9,41.4,35.1,F,Good (75-89%),Needs Attention
+S1204,male,some high school,standard,completed,87.1,7.2,64.3,88.0,74.1,75.5,B,Good (75-89%),High Performer
+S1205,male,high school,standard,completed,87.5,0.6,48.2,44.8,50.6,47.9,D,Good (75-89%),Moderate
+S1206,female,master's degree,standard,completed,52.8,1.1,19.3,12.4,15.5,15.7,F,Low (<60%),At Risk
+S1207,female,some college,standard,none,93.9,6.2,54.3,48.3,57.2,53.3,D,Excellent (90-100%),Moderate
+S1208,male,associate's degree,free/reduced,none,51.5,6.7,49.4,51.1,46.7,49.1,D,Low (<60%),Moderate
+S1209,female,associate's degree,standard,none,75.8,2.5,51.3,48.3,54.8,51.5,D,Good (75-89%),Moderate
+S1210,male,some college,free/reduced,none,92.3,2.7,60.3,56.1,59.4,58.6,D,Excellent (90-100%),Moderate
+S1211,female,some high school,standard,none,78.8,5.2,43.6,42.7,42.3,42.9,D,Good (75-89%),Needs Attention
+S1212,female,master's degree,standard,none,67.3,0.0,43.4,37.4,41.4,40.7,D,Average (60-74%),Needs Attention
+S1213,male,high school,standard,none,71.1,0.3,29.7,29.0,32.5,30.4,F,Average (60-74%),At Risk
+S1214,female,some college,free/reduced,completed,92.3,3.4,53.1,56.5,61.2,56.9,D,Excellent (90-100%),Moderate
+S1215,male,associate's degree,free/reduced,none,62.8,7.1,40.6,32.1,29.6,34.1,F,Average (60-74%),At Risk
+S1216,male,associate's degree,standard,completed,93.3,3.1,47.2,55.5,48.1,50.3,D,Excellent (90-100%),Moderate
+S1217,male,master's degree,standard,none,81.4,4.2,57.7,42.3,36.2,45.4,D,Good (75-89%),Moderate
+S1218,male,some high school,free/reduced,none,70.1,6.3,51.2,57.1,55.0,54.4,D,Average (60-74%),Moderate
+S1219,female,some college,standard,none,76.2,8.2,61.8,63.6,59.0,61.5,C,Good (75-89%),High Performer
+S1220,male,some college,free/reduced,none,71.8,2.8,40.7,33.6,32.7,35.7,F,Average (60-74%),Needs Attention
+S1221,male,some college,standard,none,90.7,4.0,52.2,34.2,39.4,41.9,D,Excellent (90-100%),Needs Attention
+S1222,female,some high school,standard,none,89.3,7.6,61.3,53.1,48.0,54.1,D,Good (75-89%),Moderate
+S1223,male,some high school,standard,completed,64.8,1.0,26.5,28.1,33.1,29.2,F,Average (60-74%),At Risk
+S1224,female,high school,standard,none,78.0,6.1,62.9,59.1,45.7,55.9,D,Good (75-89%),Moderate
+S1225,male,high school,standard,none,73.4,2.0,44.3,46.6,46.4,45.8,D,Average (60-74%),Moderate
+S1226,female,some college,standard,none,94.9,4.2,60.1,64.8,59.7,61.5,C,Excellent (90-100%),High Performer
+S1227,female,associate's degree,free/reduced,none,68.5,3.5,25.8,36.3,43.0,35.0,F,Average (60-74%),At Risk
+S1228,female,associate's degree,standard,none,98.0,2.1,35.6,32.0,34.4,34.0,F,Excellent (90-100%),At Risk
+S1229,male,some college,standard,none,81.7,2.0,28.7,35.8,27.0,30.5,F,Good (75-89%),At Risk
+S1230,male,some college,standard,completed,70.4,4.6,59.0,61.3,62.3,60.9,C,Average (60-74%),High Performer
+S1231,female,high school,standard,completed,75.2,6.0,51.6,53.4,45.5,50.2,D,Good (75-89%),Moderate
+S1232,male,some college,standard,completed,74.0,3.7,54.6,51.9,39.4,48.6,D,Average (60-74%),Moderate
+S1233,female,high school,standard,none,69.3,4.1,62.3,52.2,52.0,55.5,D,Average (60-74%),Moderate
+S1234,male,some high school,standard,none,82.9,5.1,58.4,56.2,45.5,53.4,D,Good (75-89%),Moderate
+S1235,female,some college,standard,completed,69.7,2.1,44.2,39.1,42.8,42.0,D,Average (60-74%),Needs Attention
+S1236,female,some college,free/reduced,none,60.2,5.5,34.4,42.2,32.6,36.4,F,Average (60-74%),Needs Attention
+S1237,male,high school,standard,none,78.2,5.6,54.5,54.2,47.3,52.0,D,Good (75-89%),Moderate
+S1238,male,some college,free/reduced,none,64.0,9.2,48.2,52.9,46.5,49.2,D,Average (60-74%),Moderate
+S1239,female,some college,standard,completed,74.5,3.2,56.0,65.1,60.0,60.4,C,Average (60-74%),High Performer
+S1240,male,associate's degree,standard,none,72.9,3.1,48.9,32.8,41.7,41.1,D,Average (60-74%),Needs Attention
+S1241,female,associate's degree,free/reduced,completed,73.3,5.5,51.2,58.0,64.6,57.9,D,Average (60-74%),Moderate
+S1242,male,associate's degree,standard,completed,100.0,5.6,71.6,72.9,72.1,72.2,C,Excellent (90-100%),High Performer
+S1243,female,high school,free/reduced,none,82.6,2.9,26.2,32.7,31.6,30.2,F,Good (75-89%),At Risk
+S1244,female,associate's degree,standard,completed,84.5,3.2,60.6,69.3,55.5,61.8,C,Good (75-89%),High Performer
+S1245,male,some college,standard,none,64.2,5.1,50.6,39.1,31.7,40.5,D,Average (60-74%),Needs Attention
+S1246,female,some college,free/reduced,none,75.5,2.3,25.3,21.1,24.6,23.7,F,Good (75-89%),At Risk
+S1247,male,associate's degree,standard,none,84.2,3.2,40.9,31.7,33.7,35.4,F,Good (75-89%),Needs Attention
+S1248,female,high school,standard,completed,71.8,4.2,39.3,32.9,55.0,42.4,D,Average (60-74%),Needs Attention
+S1249,male,some college,free/reduced,none,91.1,6.0,56.3,55.0,54.2,55.2,D,Excellent (90-100%),Moderate
+S1250,male,associate's degree,free/reduced,none,70.0,2.8,31.5,43.6,36.4,37.2,F,Average (60-74%),Needs Attention
+S1251,male,bachelor's degree,free/reduced,none,79.1,0.3,33.4,33.7,33.0,33.4,F,Good (75-89%),At Risk
+S1252,male,bachelor's degree,standard,none,76.1,0.2,51.4,42.3,46.3,46.7,D,Good (75-89%),Moderate
+S1253,male,some college,standard,none,83.6,1.5,35.0,39.0,33.6,35.9,F,Good (75-89%),Needs Attention
+S1254,female,some college,free/reduced,none,75.6,1.4,27.3,43.3,35.4,35.3,F,Good (75-89%),Needs Attention
+S1255,male,bachelor's degree,standard,none,79.3,3.7,40.8,48.9,50.6,46.8,D,Good (75-89%),Moderate
+S1256,female,high school,free/reduced,completed,79.6,1.6,31.4,39.4,38.3,36.4,F,Good (75-89%),Needs Attention
+S1257,male,bachelor's degree,standard,none,74.7,2.6,43.6,38.5,43.6,41.9,D,Average (60-74%),Needs Attention
+S1258,male,some college,standard,completed,86.9,2.5,52.4,37.4,43.9,44.6,D,Good (75-89%),Needs Attention
+S1259,female,some high school,free/reduced,none,84.4,3.1,57.6,49.2,52.7,53.2,D,Good (75-89%),Moderate
+S1260,female,some high school,standard,completed,81.1,6.6,45.8,50.3,53.4,49.8,D,Good (75-89%),Moderate
+S1261,male,bachelor's degree,standard,none,77.7,5.3,68.1,57.7,71.4,65.7,C,Good (75-89%),High Performer
+S1262,male,some high school,standard,none,90.0,4.0,55.3,44.5,44.4,48.1,D,Excellent (90-100%),Moderate
+S1263,female,high school,free/reduced,completed,79.6,3.1,44.7,48.9,57.6,50.4,D,Good (75-89%),Moderate
+S1264,female,high school,free/reduced,none,78.9,3.1,38.2,43.5,37.6,39.8,F,Good (75-89%),Needs Attention
+S1265,female,high school,standard,none,83.0,4.7,54.7,49.4,56.0,53.4,D,Good (75-89%),Moderate
+S1266,male,high school,standard,completed,99.0,5.2,62.5,68.7,63.9,65.0,C,Excellent (90-100%),High Performer
+S1267,male,associate's degree,free/reduced,completed,68.6,2.2,33.7,40.4,40.0,38.0,F,Average (60-74%),Needs Attention
+S1268,female,some high school,standard,none,89.7,4.1,55.7,53.4,53.2,54.1,D,Good (75-89%),Moderate
+S1269,female,bachelor's degree,standard,none,63.1,0.0,14.6,24.3,23.5,20.8,F,Average (60-74%),At Risk
+S1270,male,bachelor's degree,standard,completed,84.2,4.4,53.5,53.5,51.6,52.9,D,Good (75-89%),Moderate
+S1271,male,some college,standard,completed,97.8,5.5,65.6,64.2,63.5,64.4,C,Excellent (90-100%),High Performer
+S1272,male,high school,free/reduced,completed,86.9,3.4,64.0,72.8,70.0,68.9,C,Good (75-89%),High Performer
+S1273,female,associate's degree,free/reduced,none,83.7,7.6,49.8,57.4,55.5,54.2,D,Good (75-89%),Moderate
+S1274,male,some high school,free/reduced,completed,76.4,2.2,56.6,55.2,55.6,55.8,D,Good (75-89%),Moderate
+S1275,male,high school,standard,none,82.3,4.4,52.3,44.5,47.3,48.0,D,Good (75-89%),Moderate
+S1276,male,master's degree,standard,completed,79.5,3.9,60.3,47.0,54.5,53.9,D,Good (75-89%),Moderate
+S1277,female,master's degree,standard,none,74.1,3.8,40.1,29.9,33.3,34.4,F,Average (60-74%),At Risk
+S1278,male,associate's degree,standard,completed,79.1,3.8,54.4,45.7,45.2,48.4,D,Good (75-89%),Moderate
+S1279,male,high school,standard,none,84.0,4.2,53.7,43.5,56.3,51.2,D,Good (75-89%),Moderate
+S1280,male,associate's degree,standard,none,74.3,5.7,59.2,59.6,50.7,56.5,D,Average (60-74%),Moderate
+S1281,male,associate's degree,standard,completed,73.9,6.8,58.5,64.4,59.9,60.9,C,Average (60-74%),High Performer
+S1282,female,some college,standard,none,68.4,4.0,48.9,44.6,46.3,46.6,D,Average (60-74%),Moderate
+S1283,male,associate's degree,free/reduced,completed,85.9,5.6,52.7,64.9,71.5,63.0,C,Good (75-89%),High Performer
+S1284,male,some high school,standard,none,87.5,2.6,51.3,50.4,49.6,50.4,D,Good (75-89%),Moderate
+S1285,female,high school,standard,completed,84.3,5.5,56.3,56.6,53.7,55.5,D,Good (75-89%),Moderate
+S1286,male,some college,free/reduced,none,91.7,2.5,59.3,58.5,55.6,57.8,D,Excellent (90-100%),Moderate
+S1287,female,high school,free/reduced,none,82.9,6.2,53.3,52.2,49.6,51.7,D,Good (75-89%),Moderate
+S1288,female,high school,free/reduced,none,85.9,8.4,50.8,51.1,46.2,49.4,D,Good (75-89%),Moderate
+S1289,male,bachelor's degree,standard,none,85.0,3.8,45.8,44.3,35.9,42.0,D,Good (75-89%),Needs Attention
+S1290,female,master's degree,free/reduced,none,81.1,0.0,52.8,49.4,38.6,46.9,D,Good (75-89%),Moderate
+S1291,male,some college,standard,completed,76.7,2.9,52.4,50.4,54.3,52.4,D,Good (75-89%),Moderate
+S1292,female,bachelor's degree,standard,completed,100.0,6.5,67.7,59.3,62.2,63.1,C,Excellent (90-100%),High Performer
+S1293,male,master's degree,standard,completed,77.5,5.1,60.5,63.6,54.1,59.4,D,Good (75-89%),Moderate
+S1294,female,some high school,standard,none,75.3,4.5,56.6,53.5,53.3,54.5,D,Good (75-89%),Moderate
+S1295,female,some college,standard,none,86.3,6.0,48.6,67.3,57.8,57.9,D,Good (75-89%),Moderate
+S1296,female,some college,standard,none,84.5,5.0,35.5,51.2,43.0,43.2,D,Good (75-89%),Needs Attention
+S1297,male,some high school,free/reduced,completed,68.0,6.4,48.7,59.0,47.9,51.9,D,Average (60-74%),Moderate
+S1298,male,associate's degree,standard,completed,93.2,5.8,67.9,58.7,67.5,64.7,C,Excellent (90-100%),High Performer
+S1299,male,some college,standard,none,81.1,7.0,41.6,39.5,43.8,41.6,D,Good (75-89%),Needs Attention
+S1300,male,some college,standard,completed,70.9,4.7,59.2,59.6,51.6,56.8,D,Average (60-74%),Moderate
+S1301,female,high school,standard,none,93.9,5.8,57.8,50.3,48.5,52.2,D,Excellent (90-100%),Moderate
+S1302,male,high school,standard,none,88.3,3.4,47.8,58.1,54.0,53.3,D,Good (75-89%),Moderate
+S1303,female,bachelor's degree,standard,none,69.4,2.8,56.0,54.6,50.1,53.6,D,Average (60-74%),Moderate
+S1304,female,some high school,standard,none,99.8,7.4,53.9,61.9,58.3,58.0,D,Excellent (90-100%),Moderate
+S1305,male,high school,free/reduced,completed,88.6,4.4,47.5,58.3,60.6,55.5,D,Good (75-89%),Moderate
+S1306,male,high school,free/reduced,completed,81.9,5.6,59.3,67.0,53.9,60.1,C,Good (75-89%),High Performer
+S1307,female,some college,standard,none,97.9,4.2,62.3,61.1,59.2,60.9,C,Excellent (90-100%),High Performer
+S1308,male,some college,standard,none,83.6,2.8,40.3,39.8,44.2,41.4,D,Good (75-89%),Needs Attention
+S1309,male,some college,free/reduced,completed,81.7,4.0,47.8,57.0,53.0,52.6,D,Good (75-89%),Moderate
+S1310,female,some high school,free/reduced,completed,75.4,6.9,59.6,69.6,63.1,64.1,C,Good (75-89%),High Performer
+S1311,female,high school,standard,none,87.8,5.1,54.8,52.5,51.3,52.9,D,Good (75-89%),Moderate
+S1312,male,bachelor's degree,free/reduced,none,86.8,0.6,28.2,26.6,17.2,24.0,F,Good (75-89%),At Risk
+S1313,male,associate's degree,free/reduced,none,82.1,3.6,31.5,38.4,31.2,33.7,F,Good (75-89%),At Risk
+S1314,male,associate's degree,free/reduced,none,74.1,7.6,57.9,63.4,61.6,61.0,C,Average (60-74%),High Performer
+S1315,female,associate's degree,standard,completed,83.3,3.6,53.8,48.8,54.3,52.3,D,Good (75-89%),Moderate
+S1316,female,associate's degree,standard,none,81.3,0.4,26.0,24.2,31.5,27.2,F,Good (75-89%),At Risk
+S1317,female,some high school,standard,completed,68.7,7.8,51.4,51.8,60.8,54.7,D,Average (60-74%),Moderate
+S1318,female,high school,standard,none,67.3,5.4,52.5,38.6,36.4,42.5,D,Average (60-74%),Needs Attention
+S1319,female,some college,standard,none,87.7,3.9,55.8,49.9,50.6,52.1,D,Good (75-89%),Moderate
+S1320,male,high school,standard,completed,56.0,3.3,26.1,34.7,32.4,31.1,F,Low (<60%),At Risk
+S1321,male,bachelor's degree,standard,none,84.1,6.2,40.7,46.5,42.7,43.3,D,Good (75-89%),Needs Attention
+S1322,female,some college,standard,none,77.2,2.9,43.9,44.2,49.3,45.8,D,Good (75-89%),Moderate
+S1323,female,associate's degree,free/reduced,completed,95.1,6.3,67.5,58.4,68.2,64.7,C,Excellent (90-100%),High Performer
+S1324,female,bachelor's degree,standard,completed,77.1,5.1,56.5,55.5,58.6,56.9,D,Good (75-89%),Moderate
+S1325,male,some college,standard,none,88.6,4.5,50.5,45.5,50.5,48.8,D,Good (75-89%),Moderate
+S1326,male,bachelor's degree,free/reduced,none,78.0,4.3,46.4,50.6,38.9,45.3,D,Good (75-89%),Moderate
+S1327,male,some college,free/reduced,none,83.1,3.7,52.0,49.3,51.5,50.9,D,Good (75-89%),Moderate
+S1328,male,bachelor's degree,free/reduced,none,89.4,6.1,47.7,58.8,58.4,55.0,D,Good (75-89%),Moderate
+S1329,female,high school,free/reduced,none,77.4,2.3,42.9,51.7,35.2,43.3,D,Good (75-89%),Needs Attention
+S1330,female,some college,free/reduced,none,92.0,0.8,37.5,41.7,42.2,40.5,D,Excellent (90-100%),Needs Attention
+S1331,male,some college,standard,completed,72.1,5.2,51.6,43.5,41.0,45.4,D,Average (60-74%),Moderate
+S1332,male,some high school,standard,completed,84.9,5.3,53.2,56.7,60.4,56.8,D,Good (75-89%),Moderate
+S1333,female,some college,standard,completed,91.2,5.0,68.0,68.6,72.5,69.7,C,Excellent (90-100%),High Performer
+S1334,male,bachelor's degree,standard,completed,88.6,4.8,59.2,57.0,58.4,58.2,D,Good (75-89%),Moderate
+S1335,female,associate's degree,free/reduced,completed,100.0,3.4,49.2,53.9,44.3,49.1,D,Excellent (90-100%),Moderate
+S1336,female,high school,standard,completed,74.4,5.6,53.1,43.8,45.7,47.5,D,Average (60-74%),Moderate
+S1337,male,high school,standard,completed,68.2,3.9,47.4,43.7,50.9,47.3,D,Average (60-74%),Moderate
+S1338,male,high school,standard,none,72.1,3.0,35.5,36.3,36.2,36.0,F,Average (60-74%),Needs Attention
+S1339,female,some high school,standard,none,88.6,3.4,59.6,49.9,36.0,48.5,D,Good (75-89%),Moderate
+S1340,female,bachelor's degree,standard,none,87.0,8.0,67.6,59.4,66.9,64.6,C,Good (75-89%),High Performer
+S1341,male,some college,standard,completed,83.0,0.5,47.0,49.9,51.0,49.3,D,Good (75-89%),Moderate
+S1342,female,high school,free/reduced,none,70.8,5.0,52.6,53.4,47.6,51.2,D,Average (60-74%),Moderate
+S1343,female,associate's degree,standard,none,89.7,0.6,44.8,51.9,51.3,49.3,D,Good (75-89%),Moderate
+S1344,female,some high school,free/reduced,none,69.8,3.8,26.3,33.9,30.2,30.1,F,Average (60-74%),At Risk
+S1345,male,high school,free/reduced,none,93.6,3.1,45.9,45.4,38.9,43.4,D,Excellent (90-100%),Needs Attention
+S1346,female,associate's degree,standard,none,100.0,0.0,36.3,40.8,44.2,40.4,D,Excellent (90-100%),Needs Attention
+S1347,female,associate's degree,standard,completed,85.7,4.8,58.7,57.1,62.6,59.5,D,Good (75-89%),Moderate
+S1348,male,master's degree,free/reduced,completed,87.8,3.2,41.9,48.7,54.6,48.4,D,Good (75-89%),Moderate
+S1349,male,associate's degree,standard,none,77.1,0.0,32.1,35.4,32.1,33.2,F,Good (75-89%),At Risk
+S1350,female,some college,free/reduced,none,63.9,5.7,39.2,43.2,40.9,41.1,D,Average (60-74%),Needs Attention
+S1351,male,associate's degree,standard,none,76.0,6.9,50.7,49.7,49.5,50.0,D,Good (75-89%),Moderate
+S1352,male,bachelor's degree,free/reduced,completed,71.1,7.0,46.0,53.8,47.5,49.1,D,Average (60-74%),Moderate
+S1353,male,associate's degree,free/reduced,completed,67.5,4.7,55.8,57.8,59.1,57.6,D,Average (60-74%),Moderate
+S1354,female,master's degree,standard,none,99.2,4.1,56.5,60.7,50.4,55.9,D,Excellent (90-100%),Moderate
+S1355,female,associate's degree,standard,completed,84.7,6.7,69.5,74.1,77.8,73.8,C,Good (75-89%),High Performer
+S1356,male,bachelor's degree,free/reduced,none,85.8,7.4,53.2,54.6,55.1,54.3,D,Good (75-89%),Moderate
+S1357,female,some high school,standard,none,78.9,6.3,56.8,49.8,50.2,52.3,D,Good (75-89%),Moderate
+S1358,male,associate's degree,standard,completed,80.3,2.1,56.6,50.0,48.1,51.6,D,Good (75-89%),Moderate
+S1359,female,some college,standard,none,91.6,4.4,57.5,49.1,36.5,47.7,D,Excellent (90-100%),Moderate
+S1360,female,some college,standard,none,81.7,4.9,46.1,50.8,50.8,49.2,D,Good (75-89%),Moderate
+S1361,female,associate's degree,free/reduced,none,87.3,0.4,51.8,52.2,54.6,52.9,D,Good (75-89%),Moderate
+S1362,male,master's degree,free/reduced,none,80.0,4.9,44.1,31.4,43.6,39.7,F,Good (75-89%),Needs Attention
+S1363,female,master's degree,standard,completed,78.6,8.5,71.7,68.1,67.7,69.2,C,Good (75-89%),High Performer
+S1364,male,high school,free/reduced,completed,67.9,5.3,51.9,51.1,59.6,54.2,D,Average (60-74%),Moderate
+S1365,female,associate's degree,standard,none,62.2,6.9,38.7,34.3,35.8,36.3,F,Average (60-74%),Needs Attention
+S1366,male,associate's degree,standard,none,79.4,4.4,51.5,58.1,52.0,53.9,D,Good (75-89%),Moderate
+S1367,male,high school,standard,completed,82.6,3.9,57.9,55.4,66.0,59.8,D,Good (75-89%),Moderate
+S1368,male,some high school,free/reduced,none,69.1,4.8,25.3,33.0,38.0,32.1,F,Average (60-74%),At Risk
+S1369,female,some high school,standard,completed,81.7,2.4,51.0,36.1,44.2,43.8,D,Good (75-89%),Needs Attention
+S1370,male,associate's degree,standard,completed,82.5,2.1,39.6,35.4,25.4,33.5,F,Good (75-89%),At Risk
+S1371,female,some college,standard,none,60.4,6.5,39.8,33.3,32.0,35.0,F,Average (60-74%),At Risk
+S1372,male,master's degree,free/reduced,completed,72.8,6.7,51.8,60.7,66.2,59.6,D,Average (60-74%),Moderate
+S1373,male,some college,standard,none,86.1,2.0,44.8,45.6,37.3,42.6,D,Good (75-89%),Needs Attention
+S1374,female,master's degree,standard,none,85.9,5.9,57.3,50.2,48.7,52.1,D,Good (75-89%),Moderate
+S1375,male,some college,free/reduced,none,70.5,3.8,40.0,42.7,42.0,41.6,D,Average (60-74%),Needs Attention
+S1376,female,bachelor's degree,standard,none,83.6,4.7,46.3,43.6,50.7,46.9,D,Good (75-89%),Moderate
+S1377,female,some high school,standard,completed,92.2,4.9,58.6,62.5,55.2,58.8,D,Excellent (90-100%),Moderate
+S1378,male,some college,standard,completed,89.8,6.0,76.0,66.7,68.2,70.3,C,Good (75-89%),High Performer
+S1379,male,bachelor's degree,standard,completed,81.0,4.2,41.3,42.0,48.2,43.8,D,Good (75-89%),Needs Attention
+S1380,male,bachelor's degree,standard,completed,77.3,6.8,53.8,44.3,59.9,52.7,D,Good (75-89%),Moderate
+S1381,female,bachelor's degree,free/reduced,none,75.7,4.6,39.2,43.9,36.4,39.8,F,Good (75-89%),Needs Attention
+S1382,female,some high school,standard,none,86.7,5.2,55.4,61.6,54.0,57.0,D,Good (75-89%),Moderate
+S1383,male,some college,free/reduced,completed,84.0,2.3,53.4,69.4,61.6,61.5,C,Good (75-89%),High Performer
+S1384,male,some high school,free/reduced,completed,88.3,8.3,65.1,63.4,70.0,66.2,C,Good (75-89%),High Performer
+S1385,male,some high school,standard,none,83.3,4.9,64.9,51.5,55.1,57.2,D,Good (75-89%),Moderate
+S1386,male,associate's degree,standard,none,90.2,5.4,51.8,42.6,45.9,46.8,D,Excellent (90-100%),Moderate
+S1387,female,associate's degree,free/reduced,none,82.9,0.8,48.6,52.9,52.7,51.4,D,Good (75-89%),Moderate
+S1388,female,associate's degree,standard,none,89.8,2.4,52.4,29.5,41.7,41.2,D,Good (75-89%),Needs Attention
+S1389,male,bachelor's degree,free/reduced,completed,90.7,6.5,64.8,74.9,69.4,69.7,C,Excellent (90-100%),High Performer
+S1390,female,associate's degree,free/reduced,none,74.0,4.6,34.7,44.1,40.7,39.8,F,Average (60-74%),Needs Attention
+S1391,male,bachelor's degree,standard,completed,63.9,0.2,40.0,50.8,54.1,48.3,D,Average (60-74%),Moderate
+S1392,male,some high school,standard,completed,97.4,6.1,75.3,68.3,77.9,73.8,C,Excellent (90-100%),High Performer
+S1393,female,high school,standard,completed,84.6,2.9,50.6,48.2,48.7,49.2,D,Good (75-89%),Moderate
+S1394,female,associate's degree,standard,none,64.9,6.8,56.1,43.5,41.8,47.1,D,Average (60-74%),Moderate
+S1395,female,bachelor's degree,standard,none,74.9,3.8,41.8,43.8,46.3,44.0,D,Average (60-74%),Needs Attention
+S1396,male,some high school,standard,completed,89.7,4.4,71.2,74.0,66.7,70.6,C,Good (75-89%),High Performer
+S1397,male,some college,free/reduced,completed,79.2,6.4,53.9,56.1,56.6,55.5,D,Good (75-89%),Moderate
+S1398,male,associate's degree,free/reduced,none,76.9,2.2,41.3,43.6,39.7,41.5,D,Good (75-89%),Needs Attention
+S1399,male,some high school,free/reduced,completed,96.0,2.0,46.7,47.4,53.5,49.2,D,Excellent (90-100%),Moderate
+S1400,female,some college,standard,none,71.5,3.6,50.3,47.9,47.0,48.4,D,Average (60-74%),Moderate
+S1401,female,bachelor's degree,standard,completed,74.0,5.7,50.3,53.3,39.9,47.8,D,Average (60-74%),Moderate
+S1402,male,associate's degree,standard,none,84.1,1.3,36.8,35.4,32.2,34.8,F,Good (75-89%),At Risk
+S1403,female,high school,standard,none,85.9,0.7,45.7,43.8,40.5,43.3,D,Good (75-89%),Needs Attention
+S1404,male,bachelor's degree,free/reduced,none,87.0,5.6,52.9,63.3,68.9,61.7,C,Good (75-89%),High Performer
+S1405,female,high school,standard,none,91.1,2.8,55.1,54.4,54.0,54.5,D,Excellent (90-100%),Moderate
+S1406,male,bachelor's degree,standard,none,84.0,3.2,48.7,52.9,45.6,49.1,D,Good (75-89%),Moderate
+S1407,male,high school,free/reduced,none,86.9,0.3,29.0,36.8,37.0,34.3,F,Good (75-89%),At Risk
+S1408,female,associate's degree,standard,none,79.4,2.6,51.9,43.5,53.6,49.7,D,Good (75-89%),Moderate
+S1409,male,some college,standard,completed,82.6,4.0,55.6,55.1,35.0,48.6,D,Good (75-89%),Moderate
+S1410,male,high school,standard,none,83.1,5.9,47.9,55.4,44.3,49.2,D,Good (75-89%),Moderate
+S1411,male,bachelor's degree,standard,completed,84.2,2.5,47.4,41.7,58.5,49.2,D,Good (75-89%),Moderate
+S1412,male,high school,free/reduced,completed,89.7,7.3,51.7,53.7,59.7,55.0,D,Good (75-89%),Moderate
+S1413,male,some high school,standard,none,87.6,2.6,50.1,44.2,40.7,45.0,D,Good (75-89%),Needs Attention
+S1414,male,high school,free/reduced,none,82.4,2.6,48.6,47.9,42.9,46.5,D,Good (75-89%),Moderate
+S1415,female,associate's degree,free/reduced,completed,73.9,7.1,53.2,57.2,61.8,57.4,D,Average (60-74%),Moderate
+S1416,female,bachelor's degree,free/reduced,completed,82.7,4.4,59.3,60.2,61.9,60.5,C,Good (75-89%),High Performer
+S1417,male,master's degree,standard,none,81.7,2.9,45.8,48.7,53.0,49.2,D,Good (75-89%),Moderate
+S1418,male,high school,standard,completed,83.9,3.7,66.9,56.7,58.4,60.7,C,Good (75-89%),High Performer
+S1419,female,some college,free/reduced,none,100.0,6.7,57.3,65.9,56.7,60.0,C,Excellent (90-100%),Moderate
+S1420,female,some high school,standard,none,76.8,6.9,50.1,52.6,56.7,53.1,D,Good (75-89%),Moderate
+S1421,female,some college,standard,completed,86.2,2.4,53.0,45.5,42.7,47.1,D,Good (75-89%),Moderate
+S1422,female,master's degree,free/reduced,none,92.7,3.9,53.0,48.3,46.7,49.3,D,Excellent (90-100%),Moderate
+S1423,female,associate's degree,standard,completed,83.0,4.2,61.9,63.8,49.2,58.3,D,Good (75-89%),Moderate
+S1424,male,associate's degree,free/reduced,none,100.0,2.0,48.1,41.1,36.0,41.7,D,Excellent (90-100%),Needs Attention
+S1425,male,some college,free/reduced,completed,78.2,3.9,44.6,53.7,46.9,48.4,D,Good (75-89%),Moderate
+S1426,female,bachelor's degree,free/reduced,none,85.2,4.0,40.4,43.4,36.8,40.2,D,Good (75-89%),Needs Attention
+S1427,female,some college,standard,none,74.0,6.3,45.6,40.0,45.7,43.8,D,Average (60-74%),Needs Attention
+S1428,male,some high school,free/reduced,none,78.5,6.4,34.6,40.7,36.7,37.3,F,Good (75-89%),Needs Attention
+S1429,female,high school,standard,none,84.5,3.3,53.1,60.7,36.8,50.2,D,Good (75-89%),Moderate
+S1430,male,some high school,free/reduced,completed,90.5,3.6,65.0,64.0,57.0,62.0,C,Excellent (90-100%),High Performer
+S1431,female,high school,free/reduced,none,85.2,5.3,52.3,49.5,50.8,50.9,D,Good (75-89%),Moderate
+S1432,female,some high school,free/reduced,none,94.6,2.8,50.9,63.0,56.9,56.9,D,Excellent (90-100%),Moderate
+S1433,male,some college,standard,none,81.1,5.2,40.9,47.0,54.1,47.3,D,Good (75-89%),Moderate
+S1434,male,associate's degree,standard,none,78.7,3.8,72.1,81.1,59.1,70.8,C,Good (75-89%),High Performer
+S1435,male,high school,standard,completed,100.0,2.1,54.4,56.4,58.8,56.5,D,Excellent (90-100%),Moderate
+S1436,female,some college,standard,none,85.9,2.1,42.8,42.9,43.6,43.1,D,Good (75-89%),Needs Attention
+S1437,female,master's degree,standard,completed,74.8,6.9,53.6,62.3,54.4,56.8,D,Average (60-74%),Moderate
+S1438,male,associate's degree,standard,none,75.1,3.7,38.7,35.6,39.5,37.9,F,Good (75-89%),Needs Attention
+S1439,male,some college,standard,completed,72.6,7.3,69.5,63.6,62.0,65.0,C,Average (60-74%),High Performer
+S1440,female,high school,free/reduced,none,91.4,3.0,42.2,57.1,42.1,47.1,D,Excellent (90-100%),Moderate
+S1441,male,bachelor's degree,free/reduced,none,78.4,4.6,60.8,57.0,57.0,58.3,D,Good (75-89%),Moderate
+S1442,male,high school,standard,completed,83.3,8.8,67.1,59.2,65.8,64.0,C,Good (75-89%),High Performer
+S1443,male,high school,free/reduced,completed,81.4,1.9,52.9,47.6,44.4,48.3,D,Good (75-89%),Moderate
+S1444,female,bachelor's degree,free/reduced,completed,89.3,0.2,39.2,48.5,45.9,44.5,D,Good (75-89%),Needs Attention
+S1445,female,some college,standard,none,73.5,6.6,56.9,53.7,52.7,54.4,D,Average (60-74%),Moderate
+S1446,male,associate's degree,standard,none,71.2,2.3,41.8,32.3,33.3,35.8,F,Average (60-74%),Needs Attention
+S1447,female,associate's degree,free/reduced,completed,84.2,4.0,49.7,47.1,50.8,49.2,D,Good (75-89%),Moderate
+S1448,female,associate's degree,free/reduced,none,88.0,2.8,40.2,38.2,39.6,39.3,F,Good (75-89%),Needs Attention
+S1449,male,high school,free/reduced,completed,85.3,4.5,67.0,75.3,68.1,70.1,C,Good (75-89%),High Performer
+S1450,female,high school,free/reduced,none,73.9,2.1,43.5,42.9,35.7,40.7,D,Average (60-74%),Needs Attention
+S1451,female,high school,free/reduced,none,88.8,3.6,32.1,44.3,35.0,37.1,F,Good (75-89%),Needs Attention
+S1452,male,high school,standard,completed,74.6,4.9,48.3,50.4,42.9,47.2,D,Average (60-74%),Moderate
+S1453,male,bachelor's degree,standard,completed,76.8,2.0,46.2,39.1,37.3,40.9,D,Good (75-89%),Needs Attention
+S1454,female,high school,standard,none,72.6,2.6,45.5,35.4,39.2,40.0,D,Average (60-74%),Needs Attention
+S1455,female,some college,free/reduced,none,95.0,3.3,48.3,56.5,55.3,53.4,D,Excellent (90-100%),Moderate
+S1456,male,bachelor's degree,standard,none,88.3,1.1,48.8,39.4,41.5,43.2,D,Good (75-89%),Needs Attention
+S1457,female,associate's degree,standard,none,88.0,3.2,43.2,41.6,54.2,46.3,D,Good (75-89%),Moderate
+S1458,female,some college,free/reduced,none,94.5,4.2,43.3,56.1,57.7,52.4,D,Excellent (90-100%),Moderate
+S1459,male,some college,standard,none,100.0,3.2,47.7,40.9,51.9,46.8,D,Excellent (90-100%),Moderate
+S1460,female,master's degree,free/reduced,completed,64.9,3.5,31.9,35.5,44.4,37.3,F,Average (60-74%),Needs Attention
+S1461,male,associate's degree,standard,completed,74.6,4.0,36.1,43.8,53.2,44.4,D,Average (60-74%),Needs Attention
+S1462,female,bachelor's degree,free/reduced,none,75.8,2.7,31.3,35.2,27.9,31.5,F,Good (75-89%),At Risk
+S1463,male,bachelor's degree,free/reduced,none,73.5,5.4,52.1,58.2,38.8,49.7,D,Average (60-74%),Moderate
+S1464,male,associate's degree,standard,none,71.2,6.9,56.6,56.4,49.8,54.3,D,Average (60-74%),Moderate
+S1465,female,high school,free/reduced,none,79.0,3.1,48.7,49.2,50.4,49.4,D,Good (75-89%),Moderate
+S1466,male,some college,standard,none,69.8,5.0,35.3,40.0,43.4,39.6,F,Average (60-74%),Needs Attention
+S1467,female,some high school,standard,none,85.4,3.5,45.5,46.2,51.6,47.8,D,Good (75-89%),Moderate
+S1468,male,associate's degree,free/reduced,completed,82.5,4.7,50.7,41.8,50.6,47.7,D,Good (75-89%),Moderate
+S1469,female,master's degree,free/reduced,none,86.8,7.1,52.9,64.0,62.3,59.7,D,Good (75-89%),Moderate
+S1470,female,some college,standard,none,87.1,5.0,56.1,54.0,55.0,55.0,D,Good (75-89%),Moderate
+S1471,female,some college,standard,none,88.0,0.5,41.7,33.4,38.1,37.7,F,Good (75-89%),Needs Attention
+S1472,male,some high school,free/reduced,completed,78.3,4.9,52.7,52.7,50.5,52.0,D,Good (75-89%),Moderate
+S1473,male,master's degree,standard,completed,100.0,6.5,57.7,67.5,68.7,64.6,C,Excellent (90-100%),High Performer
+S1474,female,some high school,standard,none,84.3,3.6,41.1,37.0,36.2,38.1,F,Good (75-89%),Needs Attention
+S1475,female,some high school,standard,completed,63.4,6.0,46.9,38.8,42.4,42.7,D,Average (60-74%),Needs Attention
+S1476,female,high school,standard,none,72.0,2.6,41.1,53.8,37.8,44.2,D,Average (60-74%),Needs Attention
+S1477,male,some high school,free/reduced,none,81.7,1.0,28.0,35.3,31.3,31.5,F,Good (75-89%),At Risk
+S1478,female,some college,standard,completed,82.2,4.3,47.3,47.5,41.7,45.5,D,Good (75-89%),Moderate
+S1479,male,some college,standard,none,80.8,0.5,26.5,32.5,23.3,27.4,F,Good (75-89%),At Risk
+S1480,male,high school,free/reduced,none,77.3,3.5,38.1,36.6,29.9,34.9,F,Good (75-89%),At Risk
+S1481,female,some high school,standard,none,100.0,6.6,72.0,54.9,56.1,61.0,C,Excellent (90-100%),High Performer
+S1482,male,some high school,free/reduced,none,87.5,0.2,35.1,40.8,26.5,34.1,F,Good (75-89%),At Risk
+S1483,female,some college,standard,completed,89.3,1.4,45.3,46.1,46.4,45.9,D,Good (75-89%),Moderate
+S1484,male,some high school,free/reduced,none,72.7,1.9,29.3,35.8,32.4,32.5,F,Average (60-74%),At Risk
+S1485,male,associate's degree,free/reduced,none,72.0,3.9,29.8,45.0,42.4,39.1,F,Average (60-74%),Needs Attention
+S1486,male,high school,free/reduced,none,82.4,3.3,28.1,32.0,32.4,30.8,F,Good (75-89%),At Risk
+S1487,female,high school,standard,none,83.7,6.8,60.6,59.9,51.6,57.4,D,Good (75-89%),Moderate
+S1488,female,some college,standard,none,63.4,5.9,46.8,45.6,50.4,47.6,D,Average (60-74%),Moderate
+S1489,female,some college,free/reduced,none,80.2,5.0,33.8,41.1,42.3,39.1,F,Good (75-89%),Needs Attention
+S1490,female,some high school,standard,completed,82.1,4.3,52.1,44.8,52.0,49.6,D,Good (75-89%),Moderate
+S1491,female,some high school,standard,none,79.8,4.8,49.3,43.7,58.0,50.3,D,Good (75-89%),Moderate
+S1492,female,bachelor's degree,standard,none,73.9,2.3,31.3,37.2,34.8,34.4,F,Average (60-74%),At Risk
+S1493,female,some high school,free/reduced,none,76.6,5.7,41.6,40.6,47.5,43.2,D,Good (75-89%),Needs Attention
+S1494,male,some college,free/reduced,none,80.2,1.8,39.9,37.3,43.7,40.3,D,Good (75-89%),Needs Attention
+S1495,male,some college,standard,none,82.9,5.7,46.3,51.7,38.7,45.6,D,Good (75-89%),Moderate
+S1496,male,high school,free/reduced,none,88.0,6.4,54.3,72.7,61.9,63.0,C,Good (75-89%),High Performer
+S1497,male,some college,standard,none,92.8,4.4,58.1,61.8,57.2,59.0,D,Excellent (90-100%),Moderate
+S1498,female,associate's degree,standard,completed,79.1,3.6,48.1,47.8,51.6,49.2,D,Good (75-89%),Moderate
+S1499,male,bachelor's degree,standard,completed,77.4,4.8,55.5,56.7,58.1,56.8,D,Good (75-89%),Moderate
