@@ -4,17 +4,17 @@
 
 **A statistical analytics case study on the factors associated with academic performance**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-Statistics-8CAAE6?logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1?logo=postgresql&logoColor=white)
-![Power BI Ready](https://img.shields.io/badge/Power%20BI-Ready%20Outputs-F2C811?logo=powerbi&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Statistics-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)](https://seaborn.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1?logo=postgresql&logoColor=white)](https://www.sqlite.org/docs.html)
+[![Power BI Ready](https://img.shields.io/badge/Power%20BI-Ready%20Outputs-F2C811?logo=powerbi&logoColor=black)](https://www.microsoft.com/en-in/power-platform/products/power-bi)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/Roshni-1227/cognevance_studentPerformanceAnalysis-)
 
 </div>
 
@@ -153,52 +153,30 @@ in `notebooks/student_performance_analysis.ipynb`.
 
 ## 🏗 Architecture
 
-```
-┌─────────────────────────┐
-│      Raw Dataset          │
-│   (student_data.csv)      │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌─────────────────────────┐
-│  Data Cleaning &            │
-│  Feature Engineering         │
-│  (src_01_data_cleaning.py)   │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌─────────────────────────┐
-│  EDA & Statistical Analysis  │
-│  (src_02_analysis_visualization.py)│
-└─────────────┬──────────────┘
-              │
-    ┌─────────┴─────────┐
-    ▼                     ▼
-┌───────────────┐   ┌───────────────┐
-│ Segmentation     │   │ Risk Analysis   │
-│ (src_04_*.py)    │   │ (src_05_*.py)   │
-└───────┬───────┘   └───────┬───────┘
-        │                     │
-        └──────────┬──────────┘
-                    ▼
-        ┌─────────────────────┐
-        │   SQL Analysis          │
-        │   (sql/*.sql)            │
-        └─────────┬───────────┘
-                    │
-                    ▼
-        ┌─────────────────────┐
-        │   Findings Report         │
-        │   (PROJECT_REPORT.md)     │
-        └─────────┬───────────┘
-                    │
-                    ▼
-        ┌─────────────────────┐
-        │   Power BI–Ready CSVs      │
-        │   (segmented, risk output)  │
-        └─────────────────────┘
-```
+```mermaid
+flowchart TD
 
+    A["Raw Dataset<br/>student_data.csv"]
+    B["Data Cleaning &<br/>Feature Engineering<br/>src_01_data_cleaning.py"]
+    C["EDA & Statistical Analysis<br/>src_02_analysis_visualization.py"]
+
+    D["Performance Segmentation<br/>src_04_segmentation.py"]
+    E["Risk Analysis<br/>src_05_risk_analysis.py"]
+
+    F["SQL Analysis<br/>sql/*.sql"]
+    G["Findings Report<br/>report/PROJECT_REPORT.md"]
+    H["Power BI–Ready CSVs<br/>segmented + risk outputs"]
+
+    A --> B
+    B --> C
+    C --> D
+    C --> E
+    D --> F
+    E --> F
+    F --> G
+    G --> H
+
+```
 ---
 
 ## 🧪 Statistical Methods
